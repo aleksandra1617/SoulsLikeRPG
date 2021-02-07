@@ -1,2 +1,2 @@
 # SoulsLikeRPG
-Mad with C++, Blueprints and UE4
+Made with C++, Blueprints and UE4
